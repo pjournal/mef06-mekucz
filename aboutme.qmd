@@ -1,0 +1,11 @@
+---
+title: "About Me!"
+date: "2022-10-05"
+---
+
+![](/docs/kemal.jpg)
+
+[My Linkedin Account](https://mef-bda503.github.io/fall22/)
+
+Ciao! This is Kemal speaking. I am working in Telecom Italia Sparkle as commercial manager. I am responsible from account management and business development activities. Our product portfolio consists telecommunication and datacenter services. Steam, electricity, internet and now the data... It is time to utilize all inventions. The world will leverage on computational power and memory blocks... The enabler is big data and machine learning.\
+I am planning to develop data science skills for possible future job positions or a possible new start-up. I will try to learn not only technical details but also real life applications. I am planning to improve myself about financial data analysis and image processing.

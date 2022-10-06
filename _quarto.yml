@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 book:
-  title: "[Mehmet Kemal Ucuzcu/GROUP NAME] Progress Journal"
+  title: "Mehmet Kemal Ucuzcu"
   repo-url: https://github.com/pjournal/gh-pages-quarto-template
   chapters:
     - index.qmd
-    - assignment1.qmd
+    - aboutme.qmd
+    - videos.qmd
+    - posts.qmd
   page-footer: 
     center: "[MEF BDA 503](https://mef-bda503.github.io)" 
   sharing: [twitter, facebook]
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
+      
   pdf:
     documentclass: scrreprt
 

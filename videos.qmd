@@ -1,0 +1,18 @@
+---
+title: "RStudio Global 2022"
+date: "2022-10-05"
+---
+
+<p><a href="https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/?wvideo=ctiyvzylnl"><img src="https://embed-ssl.wistia.com/deliveries/e40c3f13727b33ed394616eab51e0c724f196c2f.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"/></a></p>
+
+<p><a href="https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/?wvideo=ctiyvzylnl">Achieving a seamless workflow between R, Python and SAS from within RStudio </a></p>
+
+RStudio Global 2022
+
+This session of the conference was hold by **Melissa Van Bussel**. The title of the session is: *Achieving a seamless workflow between R, Python and SAS from within RStudio*
+
+Melissa mentions about the need of using open source software in corporate entities and government bodies without expliciting personal information. She mentions about how Canadian government is utilizing open source software such as R or Python by keeping personal information strictly confidential.
+
+Strict data is processed under SAS platform and pushed to other platforms by using opensource code prepared by SAS Software. SASPy is an open source Python package that allows Python coders to access SAS data and analytics capabilities.
+
+![](docs/docs/saspy.jpg)
