@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mehmet Kemal Ucuzcu",
     "section": "",
-    "text": "This progress journal covers Mehmet Kemal Ucuzcu’s work during their term at BDA 503 Fall 2022.\nEach section is an assignment or an individual work."
+    "text": "This progress journal covers Mehmet Kemal Ucuzcu’s work during their term at BDA 503 Fall 2022.\nPlease use the left navigation bar to access the Homework."
   },
   {
     "objectID": "intro.html",
@@ -32,7 +32,7 @@
     "href": "assignment1.html",
     "title": "1  Assignment 1",
     "section": "",
-    "text": "set.seed(1)\nvec1 <- sample(LETTERS,5)\npaste0(vec1,collapse=\"\")\n\n[1] \"YDGAB\""
+    "text": "My Linkedin Account\nCiao! This is Kemal speaking. I am working in Telecom Italia Sparkle as commercial manager. I am responsible from account management and business development activities. Our product portfolio consists telecommunication and datacenter services. Steam, electricity, internet and now the data… It is time to utilize all inventions. The world will leverage on computational power and memory blocks… The enabler is big data and machine learning.\nI am planning to develop data science skills for possible future job positions or a possible new start-up. I will try to learn not only technical details but also real life applications. I am planning to improve myself about financial data analysis and image processing."
   },
   {
     "objectID": "aboutme.html",
@@ -68,5 +68,54 @@
     "title": "3  Posts about R",
     "section": "3.3 Find data type of an object in R",
     "text": "3.3 Find data type of an object in R\nTo find the data type of an object you have to use class() function. The syntax for doing that is you need to pass the object as an argument to the function class() to find the data type of an object.\n\n# A simple R program\n# to find data type of an object\n \n# Logical\nprint(class(TRUE))\n\n[1] \"logical\"\n\n# Integer\nprint(class(3L))\n\n[1] \"integer\"\n\n# Numeric\nprint(class(10.5))\n\n[1] \"numeric\"\n\n# Complex\nprint(class(1+2i))\n\n[1] \"complex\"\n\n# Character\nprint(class(\"12-04-2020\"))\n\n[1] \"character\"\n\n\nLink: Geeksforgeeks"
+  },
+  {
+    "objectID": "assignment1.html#about-me",
+    "href": "assignment1.html#about-me",
+    "title": "1  Assignment 1",
+    "section": "1.1 About Me!",
+    "text": "1.1 About Me!\n\nMy Linkedin Account\nCiao! This is Kemal speaking. I am working in Telecom Italia Sparkle as commercial manager. I am responsible from account management and business development activities. Our product portfolio consists telecommunication and datacenter services. Steam, electricity, internet and now the data… It is time to utilize all inventions. The world will leverage on computational power and memory blocks… The enabler is big data and machine learning.\nI am planning to develop data science skills for possible future job positions or a possible new start-up. I will try to learn not only technical details but also real life applications. I am planning to improve myself about financial data analysis and image processing.\n\n\n\n\nAchieving a seamless workflow between R, Python and SAS from within RStudio \n\nRStudio Global 2022\nThis session of the conference was hold by Melissa Van Bussel. The title of the session is: Achieving a seamless workflow between R, Python and SAS from within RStudio\nMelissa mentions about the need of using open source software in corporate entities and government bodies without expliciting personal information. She mentions about how Canadian government is utilizing open source software such as R or Python by keeping personal information strictly confidential.\nStrict data is processed under SAS platform and pushed to other platforms by using opensource code prepared by SAS Software. SASPy is an open source Python package that allows Python coders to access SAS data and analytics capabilities."
+  },
+  {
+    "objectID": "assignment1.html#section",
+    "href": "assignment1.html#section",
+    "title": "1  Assignment 1",
+    "section": "1.2 ",
+    "text": "1.2 \nCiao! This is Kemal speaking. I am working in Telecom Italia Sparkle as commercial manager. I am responsible from account management and business development activities. Our product portfolio consists telecommunication and datacenter services. Steam, electricity, internet and now the data… It is time to utilize all inventions. The world will leverage on computational power and memory blocks… The enabler is big data and machine learning.\nI am planning to develop data science skills for possible future job positions or a possible new start-up. I will try to learn not only technical details but also real life applications. I am planning to improve myself about financial data analysis and image processing.\n\n\n\n\nAchieving a seamless workflow between R, Python and SAS from within RStudio \n\nRStudio Global 2022\nThis session of the conference was hold by Melissa Van Bussel. The title of the session is: Achieving a seamless workflow between R, Python and SAS from within RStudio\nMelissa mentions about the need of using open source software in corporate entities and government bodies without expliciting personal information. She mentions about how Canadian government is utilizing open source software such as R or Python by keeping personal information strictly confidential.\nStrict data is processed under SAS platform and pushed to other platforms by using opensource code prepared by SAS Software. SASPy is an open source Python package that allows Python coders to access SAS data and analytics capabilities."
+  },
+  {
+    "objectID": "assignment1.html#rstudio-global-2022",
+    "href": "assignment1.html#rstudio-global-2022",
+    "title": "1  Assignment 1",
+    "section": "1.2 RStudio Global 2022",
+    "text": "1.2 RStudio Global 2022\n\n\n\n\nAchieving a seamless workflow between R, Python and SAS from within RStudio \n\nRStudio Global 2022\nThis session of the conference was hold by Melissa Van Bussel. The title of the session is: Achieving a seamless workflow between R, Python and SAS from within RStudio\nMelissa mentions about the need of using open source software in corporate entities and government bodies without expliciting personal information. She mentions about how Canadian government is utilizing open source software such as R or Python by keeping personal information strictly confidential.\nStrict data is processed under SAS platform and pushed to other platforms by using opensource code prepared by SAS Software. SASPy is an open source Python package that allows Python coders to access SAS data and analytics capabilities."
+  },
+  {
+    "objectID": "assignment1.html#writing-functions-in-r",
+    "href": "assignment1.html#writing-functions-in-r",
+    "title": "1  Assignment 1",
+    "section": "1.3 Writing Functions in R",
+    "text": "1.3 Writing Functions in R\nA function is a block of code which only runs when it is called.\nYou can pass data, known as parameters, into a function.\nA function can return data as a result.\nCreating a Function To create a function, use the function() keyword:\n\nmy_function <- function() { # create a function with the name my_function\n  print(\"Hello World!\")\n}\n\nmy_function\n\nfunction() { # create a function with the name my_function\n  print(\"Hello World!\")\n}\n\n\nLink: W3 Schools"
+  },
+  {
+    "objectID": "assignment1.html#using-pie-chart-in-r",
+    "href": "assignment1.html#using-pie-chart-in-r",
+    "title": "1  Assignment 1",
+    "section": "1.4 Using Pie Chart in R",
+    "text": "1.4 Using Pie Chart in R\nPie Charts A pie chart is a circular graphical view of data.\nUse the pie() function to draw pie charts:\n\n# Create a vector of pies\nx <- c(10,20,30,40)\n\n# Display the pie chart\npie(x)\n\n\n\n\nLink: W3 Schools"
+  },
+  {
+    "objectID": "assignment1.html#find-data-type-of-an-object-in-r",
+    "href": "assignment1.html#find-data-type-of-an-object-in-r",
+    "title": "1  Assignment 1",
+    "section": "1.5 Find data type of an object in R",
+    "text": "1.5 Find data type of an object in R\nTo find the data type of an object you have to use class() function. The syntax for doing that is you need to pass the object as an argument to the function class() to find the data type of an object.\n\n# A simple R program\n# to find data type of an object\n \n# Logical\nprint(class(TRUE))\n\n[1] \"logical\"\n\n# Integer\nprint(class(3L))\n\n[1] \"integer\"\n\n# Numeric\nprint(class(10.5))\n\n[1] \"numeric\"\n\n# Complex\nprint(class(1+2i))\n\n[1] \"complex\"\n\n# Character\nprint(class(\"12-04-2020\"))\n\n[1] \"character\"\n\n\nLink: Geeksforgeeks"
+  },
+  {
+    "objectID": "assignment1.html#some-r-posts",
+    "href": "assignment1.html#some-r-posts",
+    "title": "1  Assignment 1",
+    "section": "1.3 Some R Posts",
+    "text": "1.3 Some R Posts\n\n1.3.1 Writing Functions in R\nA function is a block of code which only runs when it is called.\nYou can pass data, known as parameters, into a function.\nA function can return data as a result.\nCreating a Function To create a function, use the function() keyword:\n\nmy_function <- function() { # create a function with the name my_function\n  print(\"Hello World!\")\n}\n\nmy_function\n\nfunction() { # create a function with the name my_function\n  print(\"Hello World!\")\n}\n\n\nLink: W3 Schools\n\n\n1.3.2 Using Pie Chart in R\nPie Charts A pie chart is a circular graphical view of data.\nUse the pie() function to draw pie charts:\n\n# Create a vector of pies\nx <- c(10,20,30,40)\n\n# Display the pie chart\npie(x)\n\n\n\n\nLink: W3 Schools\n\n\n1.3.3 Data type of an object in R\nTo find the data type of an object you have to use class() function. The syntax for doing that is you need to pass the object as an argument to the function class() to find the data type of an object.\n\n# A simple R program\n# to find data type of an object\n \n# Logical\nprint(class(TRUE))\n\n[1] \"logical\"\n\n# Integer\nprint(class(3L))\n\n[1] \"integer\"\n\n# Numeric\nprint(class(10.5))\n\n[1] \"numeric\"\n\n# Complex\nprint(class(1+2i))\n\n[1] \"complex\"\n\n# Character\nprint(class(\"12-04-2020\"))\n\n[1] \"character\"\n\n\nLink: Geeksforgeeks"
   }
 ]
