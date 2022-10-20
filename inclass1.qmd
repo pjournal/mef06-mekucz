@@ -1,0 +1,47 @@
+---
+title: "In Class Exercise 1"
+date: "2022-10-19"
+---
+
+```{r, message=FALSE}
+library(tidyverse)
+library(nycflights13)
+```
+
+
+## The number of planes according to manufacturer brands
+
+We are talking about NewYork. It is acceptable that BOEING has the highest number of planes, considering that BOEING is an American manufacturer.
+```{r}
+planes %>% 
+  group_by(manufacturer)%>%
+  summarise(count=n()) %>% 
+  arrange(desc(count))
+```
+
+
+## Investigating planes that has more than 2 engines; sorted according to the year.
+
+Big Planes, big engines....
+```{r}
+
+planes %>%
+  filter(engines>2)%>%
+  arrange(year,desc(year))
+```
+
+
+## BONUS - Quick Guys !
+
+Total number of flights that had delayed departure but arrived before scheduled time grouped by the carrier. United Airlines has the most number of flights in this category.
+```{r}
+flights%>%
+  filter(dep_delay>0 & arr_delay<0)%>%
+  group_by(carrier)%>%
+  summarize(count=n())%>%
+  arrange(desc(count))
+```
+
+
+
+
