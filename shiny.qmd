@@ -16,7 +16,7 @@ This application has 2 functions:
 
 ## Command Line
 ```{r,error=TRUE}
-shiny::runGitHub("https://github.com/pjournal/mef06-mekucz",subdir="Shiny/")
+shiny::runGitHub("/pjournal/mef06-mekucz",subdir="Shiny/", ref = “gh-pages”)
 ```
 
 
