@@ -179,6 +179,6 @@
     "href": "shiny.html#command-line",
     "title": "3  Shiny Example",
     "section": "3.3 Command Line",
-    "text": "3.3 Command Line\n\n#shiny::runGitHub(\"BOUN-IE48A/boun-ie48a.github.io\",subdir=\"Shiny/\")"
+    "text": "3.3 Command Line\n\nshiny::runGitHub(\"https://github.com/pjournal/mef06-mekucz\",subdir=\"Shiny/\")\n\nError in shiny::runGitHub(\"https://github.com/pjournal/mef06-mekucz\", : 'repo' must be of the form 'username/repo'"
   }
 ]
