@@ -1,0 +1,13 @@
+name: Shiny
+title: Shiny
+username:
+account: mekucz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7698264
+bundleId: 6540812
+url: https://mekucz.shinyapps.io/Shiny/
+when: 1669069347.10503
+lastSyncTime: 1669069347.10504
+asMultiple: FALSE
+asStatic: FALSE

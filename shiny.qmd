@@ -1,0 +1,23 @@
+---
+title: "Shiny Example"
+date: "2022-11-22"
+---
+
+## Shiny Application just about Bogazici University!
+This application has 2 functions:
+1) Show the number of students according to gender
+2) Show a plot that reflects the top 4 nationalities according to selected number range
+
+
+## Link to Shinyapps.io
+
+[My Shiny App](https://mekucz.shinyapps.io/Shiny/)
+
+
+## Command Line
+```{r}
+shiny::runGitHub("pjournal.github.io/mef06-mekucz/",subdir="Shiny/")
+
+```
+
+
