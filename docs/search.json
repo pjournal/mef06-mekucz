@@ -179,6 +179,6 @@
     "href": "shiny.html#command-line",
     "title": "3  Shiny Example",
     "section": "3.3 Command Line",
-    "text": "3.3 Command Line\n\nshiny::runGitHub(\"/pjournal/mef06-mekucz\",subdir=\"Shiny/\", ref = “gh-pages”)\n\nError: <text>:1:66: unexpected input\n1: shiny::runGitHub(\"/pjournal/mef06-mekucz\",subdir=\"Shiny/\", ref = “\n                                                                     ^"
+    "text": "3.3 Command Line\n\nshiny::runGitHub(\"/pjournal/mef06-mekucz\",subdir=\"Shiny/\", ref = “gh-pages”)"
   }
 ]
