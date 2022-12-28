@@ -1,0 +1,32 @@
+---
+title: "OR Assignment"
+date: "2022-10-05"
+---
+
+## Wincor Nixdorf ATM Cash Managment by Gurobi
+
+Everyday millions of people use ATM machnines for cash withdrawels and deposits. Holding cash in ATM machines is not a favorable situation for Banking Liquidity Management. Idle cash in ATM machines means a value that is out of investment system. Thus banks should optimize the flow as much as possible.
+
+Most of the ATM machines are prodcued by Wincor Nixdorf. Wincor Nixdorf has operations in more than 130 countries around the world. Even tough, Wincor Nixdorf is a major manufacturer of hardware such as ATMs, software and services play an increasingly important role in their offering.
+
+
+## The problem and the constraints
+
+Number 1:
+Managing the amount of cash contained in ATM machines and the cash boxes at bank branches. The goal is that they neither run out of cash, negatively impacting users nor have too much cash, which doesn’t earn the bank any interest and also presents a security risk.
+
+Number 2:
+Minimizing supply chain operating expenses. This includes the expenses associated with the transportation of cash from the central bank to the ATMs and cash boxes, as well as the expenses associated with maintaining needed cash reserves at each point in the delivery chain. 
+
+
+## The solution and the result 
+
+Only a few changes to the model are applied such as extra or modified constraints, are necessary to customize the software to the individual needs of the client. 
+
+As a result, banks save enormous sums of money per year by efficiently managing their cash using Wincor Nixdorf’s Cash Cycle Management solutions, powered with Gurobi.
+
+
+
+Link: [Gurobi Case about WN](https://www.gurobi.com/case_studies/wincor-nixdorf-cash-management/)
+
+
